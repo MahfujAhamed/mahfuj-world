@@ -24,9 +24,15 @@ section {
 }
 
 .link-button {
-    padding: 10px 40px;
+    padding: 10px 30px;
     border-radius: 5px;
     text-decoration: none;
     background-image: linear-gradient(red, orangered);
     color: white;
+    font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
